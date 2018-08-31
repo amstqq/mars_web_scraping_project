@@ -1,6 +1,6 @@
 # mars_web_scraping_project
 
-This project has two parts. The first part uses BeautifulSoup and Splinter to build a function in Python that scrapes various websites for data related to Mars and stores the collected information into a Python dictionary. The second part uses MongoDB with Flask templating to build a web application that displays the information collected in a Bootstrap page.
+This project uses BeautifulSoup and Splinter to scrape various websites for data related to Mars and store the collected information into a MongoDB database. Then, a Flask web application is developed to display the data in a Bootstrap webpage.
 
 ## Required Python packages
 
