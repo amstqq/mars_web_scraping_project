@@ -13,7 +13,7 @@ This project uses BeautifulSoup and Splinter to scrape various websites for data
 ## Navigation
 - app.py is the flask application.
 - mission_to_mars.py contains the code to scrape data from mars websites.
-- Inside templates folder contains the website used to display scraped data. The website is built using Bootstrap.
+- Inside templates folder contains the website html used to display scraped data. The website is built using Bootstrap.
 
 ## Part 1: Scraping
 
